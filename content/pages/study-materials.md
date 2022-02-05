@@ -16,18 +16,121 @@ These files are also available on [iTunes U](http://itunes.apple.com/WebObjects/
 
 Note: In 5.301, videos 3, 5, 6, 9, and 10 are used.
 
-| VIDEO # | DESCRIPTION |
-| --- | --- |
-| 3 | **[TLC-The Basics](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/tlc-the-basics)**  {{< br >}}Thin-layer chromatography is the most commonly used analytical technique in many research labs. This video walks you through every step, from setting up a developing chamber to calculating Rf values. |
-| 5 | **[Reaction Work-Up I](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/reaction-work-up-i)  {{< br >}}**Extracting, Washing and Drying: It ain't over ‘til it's over. Learn how to "work up" your reaction using a separatory funnel to perform a liquid-liquid extraction. This is one purification technique you don't want to miss! |
-| 6 | **[Reaction Work-Up II](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/reaction-work-up-ii)**  {{< br >}}Using the Rotavap: The rotary evaporator is your friend in the lab. This video will ensure that you build a safe and productive relationship. |
-| 9 | **[Recrystallization](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/recrystallization)  {{< br >}}**Recrystallization takes patience, but it's worth it! This video walks you through the procedure, from solubility tests to cold filtration, with information on one-solvent and two-solvent recrystallizations. |
-| 10 | **[Column Chromatography](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/column-chromatography)**  {{< br >}}It takes considerable practice to master the art of "running a column". This video will get you started, with tips on picking appropriate conditions, packing and running a column, monitoring separation, and even making a micro-column from a pipet. |
-| 11 | **[Using a Balance](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/using-a-balance)**  {{< br >}}Correct usage and maintenance of a balance is a basic skill that is essential in any laboratory procedure. |
-| 12 | **[Melting Point Determination](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/melting-point-determination)**  {{< br >}}Throughout your laboratory experiences, you will frequently need to assess the purity or identity of a crystalline solid. Both of these goals can be accomplished by determining a compound's melting point. |
-| 15 | **[Distillation I: Simple & Fractional Distillations](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/distillation-i-simple-fractional-distillations)**  {{< br >}}Learn how to separate or purify liquid mixtures that boil below 150°C with or without a fractionating column. |
-| 16 | [**Distillation II: Vacuum Distillations**](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/distillation-ii-vacuum-distillations)  {{< br >}}Do you need to purify a liquid that boils above 150°C? This video shows you how to perform a distillation under vacuum. |
-| 17 | [**Refluxing a Reaction**](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/refluxing-a-reaction)  {{< br >}}Most organic reactions occur slowly at room temperature and require heat to allow them to go to completion in a reasonable time frame. Running a reaction under reflux allows you to heat a reaction without losing solvent due to evaporation and with causing an explosion. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+VIDEO #
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+**[TLC-The Basics](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/tlc-the-basics)**  
+Thin-layer chromatography is the most commonly used analytical technique in many research labs. This video walks you through every step, from setting up a developing chamber to calculating Rf values.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+**[Reaction Work-Up I](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/reaction-work-up-i)  
+**Extracting, Washing and Drying: It ain't over ‘til it's over. Learn how to "work up" your reaction using a separatory funnel to perform a liquid-liquid extraction. This is one purification technique you don't want to miss!
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+**[Reaction Work-Up II](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/reaction-work-up-ii)**  
+Using the Rotavap: The rotary evaporator is your friend in the lab. This video will ensure that you build a safe and productive relationship.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+**[Recrystallization](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/recrystallization)  
+**Recrystallization takes patience, but it's worth it! This video walks you through the procedure, from solubility tests to cold filtration, with information on one-solvent and two-solvent recrystallizations.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+**[Column Chromatography](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/column-chromatography)**  
+It takes considerable practice to master the art of "running a column". This video will get you started, with tips on picking appropriate conditions, packing and running a column, monitoring separation, and even making a micro-column from a pipet.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+**[Using a Balance](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/using-a-balance)**  
+Correct usage and maintenance of a balance is a basic skill that is essential in any laboratory procedure.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+**[Melting Point Determination](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/melting-point-determination)**  
+Throughout your laboratory experiences, you will frequently need to assess the purity or identity of a crystalline solid. Both of these goals can be accomplished by determining a compound's melting point.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+**[Distillation I: Simple & Fractional Distillations](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/distillation-i-simple-fractional-distillations)**  
+Learn how to separate or purify liquid mixtures that boil below 150°C with or without a fractionating column.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+[**Distillation II: Vacuum Distillations**](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/distillation-ii-vacuum-distillations)  
+Do you need to purify a liquid that boils above 150°C? This video shows you how to perform a distillation under vacuum.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+[**Refluxing a Reaction**](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/resources/refluxing-a-reaction)  
+Most organic reactions occur slowly at room temperature and require heat to allow them to go to completion in a reasonable time frame. Running a reaction under reflux allows you to heat a reaction without losing solvent due to evaporation and with causing an explosion.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Videos created by Dr. Sarah Tabacco and Aayesha Siddiqui.
 

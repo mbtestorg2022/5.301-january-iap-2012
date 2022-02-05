@@ -55,15 +55,108 @@ Protein + Coomassie®G-250 in acidic medium---> Protein-Dye complex (blue; measu
     
     *   Prepare a fresh set of protein standards by diluting the 2.0 mg/mL BSA stock standard (Stock) as illustrated below. There will be sufficient volume for three replications of each diluted BSA standard, if necessary.
     
-    | VOL OF THE BSA TO ADD | VOL OF DILUENT (BUFFER) TO ADD | FINAL BSA CONC. |
-    | --- | --- | --- |
-    | 300 µL of Stock | 0 µL | Stock - 2000 µg/mL |
-    | 375 µL of Stock | 125 µL | A - 1500 µg/mL |
-    | 325 µL of Stock | 325 µL | B - 1000 µg/mL |
-    | 175 µL of A | 175 µL | C - 750 µg/mL |
-    | 325 µL of B | 325 µL | D - 500 µg/mL |
-    | 325 µL of D | 325 µL | E - 250 µg/mL |
-    | 325 µL of E | 325 µL | F - 125 µg/mL 
+    {{< tableopen >}}
+    {{< theadopen >}}
+    {{< tropen >}}
+    {{< thopen >}}
+    VOL OF THE BSA TO ADD
+    {{< thclose >}}
+    {{< thopen >}}
+    VOL OF DILUENT (BUFFER) TO ADD
+    {{< thclose >}}
+    {{< thopen >}}
+    FINAL BSA CONC.
+    {{< thclose >}}
+    
+    {{< trclose >}}
+    
+    {{< theadclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    300 µL of Stock
+    {{< tdclose >}}
+    {{< tdopen >}}
+    0 µL
+    {{< tdclose >}}
+    {{< tdopen >}}
+    Stock - 2000 µg/mL
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    375 µL of Stock
+    {{< tdclose >}}
+    {{< tdopen >}}
+    125 µL
+    {{< tdclose >}}
+    {{< tdopen >}}
+    A - 1500 µg/mL
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    325 µL of Stock
+    {{< tdclose >}}
+    {{< tdopen >}}
+    325 µL
+    {{< tdclose >}}
+    {{< tdopen >}}
+    B - 1000 µg/mL
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    175 µL of A
+    {{< tdclose >}}
+    {{< tdopen >}}
+    175 µL
+    {{< tdclose >}}
+    {{< tdopen >}}
+    C - 750 µg/mL
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    325 µL of B
+    {{< tdclose >}}
+    {{< tdopen >}}
+    325 µL
+    {{< tdclose >}}
+    {{< tdopen >}}
+    D - 500 µg/mL
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    325 µL of D
+    {{< tdclose >}}
+    {{< tdopen >}}
+    325 µL
+    {{< tdclose >}}
+    {{< tdopen >}}
+    E - 250 µg/mL
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    325 µL of E
+    {{< tdclose >}}
+    {{< tdopen >}}
+    325 µL
+    {{< tdclose >}}
+    {{< tdopen >}}
+    F - 125 µg/mL
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    
+    {{< tableclose >}}
     
 2.  **Mixing of the Coomassie® Plus Protein Assay Reagent**
     *   Allow the Coomassie® Plus reagent to come to room temperature. Mix the Coomassie® Plus reagent solution just prior to use by gently inverting the bottle several times. Do not shake.
@@ -126,15 +219,84 @@ Solutions provided by your TA:
 1.  **Preparation of Standards**
     *   Prepare a fresh set of iron standards in 2 mL Eppendorf tubes, as illustrated below. Carefully label each tube. Also fill 3 tubes with 300 µL of your unknown protein sample.
         
-        | µL OF Fe AA STANDARD (100 µg/mL) | µL OF BUFFER TO ADD |
-        | --- | --- |
-        | 0 | 300 |
-        | 3 | 297 |
-        | 6 | 294 |
-        | 12 | 288 |
-        | 18 | 282 |
-        | 24 | 276 |
-        | 30 | 270 
+        {{< tableopen >}}
+        {{< theadopen >}}
+        {{< tropen >}}
+        {{< thopen >}}
+        µL OF Fe AA STANDARD (100 µg/mL)
+        {{< thclose >}}
+        {{< thopen >}}
+        µL OF BUFFER TO ADD
+        {{< thclose >}}
+        
+        {{< trclose >}}
+        
+        {{< theadclose >}}
+        {{< tropen >}}
+        {{< tdopen >}}
+        0
+        {{< tdclose >}}
+        {{< tdopen >}}
+        300
+        {{< tdclose >}}
+        
+        {{< trclose >}}
+        {{< tropen >}}
+        {{< tdopen >}}
+        3
+        {{< tdclose >}}
+        {{< tdopen >}}
+        297
+        {{< tdclose >}}
+        
+        {{< trclose >}}
+        {{< tropen >}}
+        {{< tdopen >}}
+        6
+        {{< tdclose >}}
+        {{< tdopen >}}
+        294
+        {{< tdclose >}}
+        
+        {{< trclose >}}
+        {{< tropen >}}
+        {{< tdopen >}}
+        12
+        {{< tdclose >}}
+        {{< tdopen >}}
+        288
+        {{< tdclose >}}
+        
+        {{< trclose >}}
+        {{< tropen >}}
+        {{< tdopen >}}
+        18
+        {{< tdclose >}}
+        {{< tdopen >}}
+        282
+        {{< tdclose >}}
+        
+        {{< trclose >}}
+        {{< tropen >}}
+        {{< tdopen >}}
+        24
+        {{< tdclose >}}
+        {{< tdopen >}}
+        276
+        {{< tdclose >}}
+        
+        {{< trclose >}}
+        {{< tropen >}}
+        {{< tdopen >}}
+        30
+        {{< tdclose >}}
+        {{< tdopen >}}
+        270
+        {{< tdclose >}}
+        
+        {{< trclose >}}
+        
+        {{< tableclose >}}
         
     *   Add 30 µL of ultrapure HNO3 (5 M) to each standard and sample.
     *   Place the closed Eppendorf tubes in a rack, and boil them for 15 minutes in a hot water bath (a large Pyrex dish over a heating plate).

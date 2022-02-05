@@ -109,12 +109,132 @@ _Before coming to the lab_, perform the necessary calculations to fill in the fo
 
 ![image4.jpg]({{< resource_file aef63fa9-44e1-5f98-b925-15abcceed573 >}})
 
-| REAGENT | SOURCE | FORM. WT. | DENSITY | MASS/VOL. | MMOLES | EQUIV |
-| --- | --- | --- | --- | --- | --- | --- |
-| CrCl3·6H2O | &nbsp; | 1.00 mmol | 1 |
-| Urea | &nbsp; | 17 |
-| 2,4-pentanedione | &nbsp; | 8 |
-| Cr(acac)3 | Product | &nbsp; |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+REAGENT
+{{< thclose >}}
+{{< thopen >}}
+SOURCE
+{{< thclose >}}
+{{< thopen >}}
+FORM. WT.
+{{< thclose >}}
+{{< thopen >}}
+DENSITY
+{{< thclose >}}
+{{< thopen >}}
+MASS/VOL.
+{{< thclose >}}
+{{< thopen >}}
+MMOLES
+{{< thclose >}}
+{{< thopen >}}
+EQUIV
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+CrCl3·6H2O
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+1.00 mmol
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Urea
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2,4-pentanedione
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Cr(acac)3
+{{< tdclose >}}
+{{< tdopen >}}
+Product
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ![image5.jpg]({{< resource_file 1f42fa70-33ca-b7a4-7b3a-4e0abd89f943 >}})
 

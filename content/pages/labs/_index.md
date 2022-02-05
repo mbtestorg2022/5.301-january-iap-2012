@@ -71,31 +71,177 @@ Note:
 
 Found in section eight of the Lab Manual, these guides will provide you with step-by-step instructions for some of the more common techniques encountered in a chemistry laboratory.
 
-| TOPICS | FILES |
-| --- | --- |
-| NMR Sample Preparation | ([PDF]({{< baseurl >}}/resources/mit5_301iap12_nmr_handout)) |
-| GC Sample Preparation | ([PDF]({{< baseurl >}}/resources/mit5_301iap12_gc_sample)) |
-| Thin Layer Chromatography Guide | ([PDF]({{< baseurl >}}/resources/mit5_301iap12_tlc_handout)) |
-| Extraction and Washing Guide | ([PDF]({{< baseurl >}}/resources/mit5_301iap12_work_handout)) |
-| No Air Technique Guide | ([PDF]({{< baseurl >}}/resources/mit5_301iap12_air_handout)) |
-| Two-Solvent Recrystallization Guide | ([PDF]({{< baseurl >}}/resources/mit5_301iap12_two_solvent)) |
-| Guide to Growing a Single Crystal | ([PDF]({{< baseurl >}}/resources/mit5_301iap12_single_cryst)) |
-| Distillation Guide | ([PDF]({{< baseurl >}}/resources/mit5_301iap12_dist_handout)) |
-| Flash Column Chromatography | ([PDF]({{< baseurl >}}/resources/mit5_301iap12_flashhandout)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+NMR Sample Preparation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit5_301iap12_nmr_handout))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+GC Sample Preparation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit5_301iap12_gc_sample))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Thin Layer Chromatography Guide
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit5_301iap12_tlc_handout))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Extraction and Washing Guide
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit5_301iap12_work_handout))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+No Air Technique Guide
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit5_301iap12_air_handout))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two-Solvent Recrystallization Guide
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit5_301iap12_two_solvent))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Guide to Growing a Single Crystal
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit5_301iap12_single_cryst))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Distillation Guide
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit5_301iap12_dist_handout))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Flash Column Chromatography
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit5_301iap12_flashhandout))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Instrument_Operation_Guides" >}}Instrument Operation Guides{{< /anchor >}}
 --------------------------------------------------------------------------------------
 
 These guides will provide you with step-by-step instructions for some of the instruments commonly encountered in a chemistry laboratory.
 
-| INSTRUMENT | FILES |
-| --- | --- |
-| NMR | ([PDF - 1.3MB]({{< baseurl >}}/resources/mit5_301iap12_nmr_op_guide)) |
-| IR Guide | ([PDF]({{< baseurl >}}/resources/mit5_301iap12_perkin_elmer)) |
-| Refractometer | ([PDF]({{< baseurl >}}/resources/mit5_301iap12_oper_refract)) |
-| UV | ([PDF]({{< baseurl >}}/resources/mit5_301iap12_uv_op_guide)) |
-| Mass Spectrometer | ([PDF]({{< baseurl >}}/resources/mit5_301iap12_ms_op_guide)) |
-| GC | ([PDF]({{< baseurl >}}/resources/mit5_301iap12_gc_handout)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+INSTRUMENT
+{{< thclose >}}
+{{< thopen >}}
+FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+NMR
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.3MB]({{< baseurl >}}/resources/mit5_301iap12_nmr_op_guide))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+IR Guide
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit5_301iap12_perkin_elmer))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Refractometer
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit5_301iap12_oper_refract))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+UV
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit5_301iap12_uv_op_guide))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mass Spectrometer
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit5_301iap12_ms_op_guide))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+GC
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit5_301iap12_gc_handout))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Acknowledgements
 ----------------

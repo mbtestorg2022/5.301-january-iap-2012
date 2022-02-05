@@ -9,22 +9,225 @@ Note:
 "CC" refers to the "Competent Chemist" modules.  
 "EE" refers to the "Expert Experimentalist" modules.
 
-| SES # | LECTURE TOPICS | LAB TOPICS |
-| --- | --- | --- |
-| 1 | Introductory Lecture, Pre-Lab Reports and Lab Notebooks | Safety Instruments & Check in |
-| 2 | NMR Spectroscopy | CC: Transfer & Manipulation, NMR, IR |
-| 3 | Extraction Techniques & IR Spectroscopy | EE: Acids, Bases & In Between |
-| 4 | Recrystallization Techniques | CC: Recrystallization Mothball |
-| 5 | Mass Spectroscopy | EE: Recrystallization Single Crystal |
-| 6 | Atmospheric & Vacuum Distillation | CC: Distillation, GC and MS |
-| 7 | TLC, Column & Gas Chromatography | EE: Distillation, RI & IR |
-| 8 | Students Present Distillation Results | CC/EE: Column Chromatography |
-| 9 | Protein Assays - Biochemistry | CC: Biochemistry |
-| 10 | Error Analysis | EE: Biochemistry |
-| 11 | Original Research Project Charge, Synthesis of Penicillin Derivatives | Orig Research: Synthesis, Penicillin |
-| 12 | Students Present Results of Synthesis and Schemes | Purify product, Column Chromatography |
-| 13 | Writing Up The Research Lab Report | Test Penicillin with E. Coli |
-| 14 |  No Lecture | Complete Research Labwork |
-| 15 |  No Lecture | Work on Lab Report |
-| 16 |  No Lecture | Work on Lab Report (cont.) |
-| 17 |  No Lecture | Lab Reports Due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+LECTURE TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LAB TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductory Lecture, Pre-Lab Reports and Lab Notebooks
+{{< tdclose >}}
+{{< tdopen >}}
+Safety Instruments & Check in
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+NMR Spectroscopy
+{{< tdclose >}}
+{{< tdopen >}}
+CC: Transfer & Manipulation, NMR, IR
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Extraction Techniques & IR Spectroscopy
+{{< tdclose >}}
+{{< tdopen >}}
+EE: Acids, Bases & In Between
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Recrystallization Techniques
+{{< tdclose >}}
+{{< tdopen >}}
+CC: Recrystallization Mothball
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Mass Spectroscopy
+{{< tdclose >}}
+{{< tdopen >}}
+EE: Recrystallization Single Crystal
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Atmospheric & Vacuum Distillation
+{{< tdclose >}}
+{{< tdopen >}}
+CC: Distillation, GC and MS
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+TLC, Column & Gas Chromatography
+{{< tdclose >}}
+{{< tdopen >}}
+EE: Distillation, RI & IR
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Students Present Distillation Results
+{{< tdclose >}}
+{{< tdopen >}}
+CC/EE: Column Chromatography
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Protein Assays - Biochemistry
+{{< tdclose >}}
+{{< tdopen >}}
+CC: Biochemistry
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Error Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+EE: Biochemistry
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Original Research Project Charge, Synthesis of Penicillin Derivatives
+{{< tdclose >}}
+{{< tdopen >}}
+Orig Research: Synthesis, Penicillin
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Students Present Results of Synthesis and Schemes
+{{< tdclose >}}
+{{< tdopen >}}
+Purify product, Column Chromatography
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Writing Up The Research Lab Report
+{{< tdclose >}}
+{{< tdopen >}}
+Test Penicillin with E. Coli
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+ No Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+Complete Research Labwork
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+ No Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+Work on Lab Report
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+ No Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+Work on Lab Report (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+ No Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Reports Due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
