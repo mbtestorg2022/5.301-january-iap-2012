@@ -45,7 +45,7 @@ The text by Leonard, Lygo, and Procter, while still readable, was (as the title 
 Study Materials
 ---------------
 
-This course includes a series of chemistry laboratory instructional videos called the Digital Lab Techniques Manual ([DLTM](/resources/res-5-0001-digital-lab-techniques-manual-spring-2007)), used as supplementary material for this course as well as other courses offered by the Chemistry department. Please note that the full "[Digital Lab Techniques Manual](/resources/res-5-0001-digital-lab-techniques-manual-spring-2007)" is available in our [Supplemental Resources](/resources/index.htm) section under Chemistry. The videos are intended to help you prepare for your chemistry laboratory class. Each video provides a detailed demonstration of a common laboratory technique, as well as helpful tips and information.
+This course includes a series of chemistry laboratory instructional videos called the Digital Lab Techniques Manual ([DLTM](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007)), used as supplementary material for this course as well as other courses offered by the Chemistry department. Please note that the full "[Digital Lab Techniques Manual](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007)" is available in our [Supplemental Resources](/resources/index.htm) section under Chemistry. The videos are intended to help you prepare for your chemistry laboratory class. Each video provides a detailed demonstration of a common laboratory technique, as well as helpful tips and information.
 
 Grading
 -------

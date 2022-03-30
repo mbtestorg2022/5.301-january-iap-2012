@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: a6c152f7-284b-2e66-4f68-ecbd851a6bc6
 resourcetype: Image
 title: 5-301_classroom-1.jpg
 uid: 120d56c2-ca42-4cf5-716f-ad487eead4e7

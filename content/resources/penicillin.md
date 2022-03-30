@@ -8,6 +8,7 @@ image_metadata:
     library, (a number of different R groups will be available)
   credit: ''
   image-alt: ''
+parent_uid: 522c2d2c-6509-eaa8-e39a-b9a4c599c18b
 resourcetype: Image
 title: penicillin.jpg
 uid: bd7c0db6-eef4-c786-825d-4d5c2faf94c1
